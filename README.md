@@ -13,25 +13,20 @@
 
 <br />
 
-<div>
-  <div>
-    <img
-      src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif"
-      alt="woman-in-tech"
-      width="300"
-      align="right"
-    />
-  </div>
-  <div>
-    <p>- 🌱 I’m currently learning <b>Vue js, Docker, AWS</b></p>
-    <p>
-      - 📄 Know about my experiences
-      [my-cv](https://drive.google.com/file/d/1m6I_o5OiuVavqU8QJWzpUJQtO8iYaMIW/view)
-    </p>
-    <p>- ⚡ Fun fact <b>I think i'm funny</b></p>
-    <p>- 💬 Ask me about <b>Laravel, PHP, Python</b></p>
-  </div>
-</div>
+
+<img
+  src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif"
+  alt="woman-in-tech"
+  width="300"
+  align="right"
+/>
+
+- 🌱 I’m currently learning **Vue js, Docker, AWS**
+- 📄 Know about my experiences [my-cv](https://drive.google.com/file/d/1m6I_o5OiuVavqU8QJWzpUJQtO8iYaMIW/view)
+
+- ⚡ Fun fact **I think i'm funny**
+- 💬 Ask me about **Laravel, PHP, Python**
+
 
 <div>
   <a href="mailto:mifthulyn07@gmail.com">
