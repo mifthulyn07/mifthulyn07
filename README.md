@@ -18,6 +18,7 @@
   src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif"
   alt="woman-in-tech"
   width="300"
+  align="center"
 />
 
 - 🌱 I’m currently learning **Vue js, Docker, AWS**
