@@ -18,7 +18,6 @@
   src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif"
   alt="woman-in-tech"
   width="300"
-  align="right"
 />
 
 - 🌱 I’m currently learning **Vue js, Docker, AWS**
@@ -61,14 +60,6 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="mifthulyn07"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://linkedin.com/in/miftahul-ulyana-hutabarat" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="miftahul-ulyana-hutabarat"
       height="30"
       width="40"
   /></a>
