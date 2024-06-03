@@ -21,7 +21,7 @@
 />
 
 - 🌱 I’m currently learning **Vue js, Docker, AWS**
-- 📄 Know about my experiences [my-cv](https://drive.google.com/file/d/1m6I_o5OiuVavqU8QJWzpUJQtO8iYaMIW/view)
+- 📄 Know about my experiences [my-cv](https://drive.google.com/file/d/15fNHEjYbANfMRinmoJJUanNB-5QJQwLn/view?usp=sharing)
 
 - ⚡ Fun fact **I think i'm funny**
 - 💬 Ask me about **Laravel, PHP, Python**
@@ -95,10 +95,10 @@
 <br />
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,jquery,php,mysql"
+    src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,vue,jquery,php,mysql,java,python"
   />
   <img
-    src="https://skillicons.dev/icons?i=java,python,cpp,vscode,github,git,figma,laravel,postman,firebase"
+    src="https://skillicons.dev/icons?i=cpp,vscode,github,gitlab,git,figma,laravel,postman,firebase"
   /><br /><br />
 </div>
 
